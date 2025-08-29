@@ -7,7 +7,7 @@
 <td width="200" align="center">
 <img src="./images/logo.png" width="80%" heigth="80%" />
 </td>
-<td width="465" align="left">
+<td width="420" align="left">
 
 ### 👋 **Hi, I'm Ichina!**
 🌍 **Location:** Japan 🇯🇵  
