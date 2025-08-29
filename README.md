@@ -7,13 +7,13 @@
 <td width="200" align="center">
 <img src="./images/ai_logo.png" width="80%" heigth="80%" />
 </td>
-<td width="400" align="left">
+<td width="470" align="left">
 
-### 👋 **Hi, I'm Tomatio13!**
+### 👋 **Hi, I'm Ichina!**
 🌍 **Location:** Japan 🇯🇵  
-🤖 **Software Engineer**   
-🔧 **Loves** Claude Code | Codex cli | Mastra  
-📈 **"AI makes everything possible! 🤖"**  
+🔬 **AI Researcher & Software Engineer**   
+✨ **Focus:** Reverse Engineering → Documentation → Migration   
+🎯 **Goal:** Modernizing legacy systems with AI
 
 </td>
 </tr>
@@ -23,11 +23,20 @@
 
 ## 📊 **GitHub Analytics**
 
+<!-- Streak -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tomatio13&theme=transparent&border_radius=10&starting_year=2020" alt="readme streak stats" />
+  <img
+    src="https://streak-stats.demolab.com?user=IchinaZiru&theme=transparent&border_radius=10&starting_year=2023"
+    alt="GitHub Streak"
+  />
 </div>
 
+<!-- Activity Graph -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tomatio13&custom_title=Tomatio13's%20GitHub%20Activity%20Graph&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=IchinaZiru&custom_title=IchinaZiru's%20GitHub%20Activity%20Graph&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true"
+    alt="GitHub Activity Graph"
+  />
 </div>
+
 
