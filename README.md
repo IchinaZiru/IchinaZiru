@@ -13,7 +13,7 @@
 🌍 **Location:** Japan 🇯🇵  
 🔬 **AI Researcher & Software Engineer**   
 ✨ **Focus:** Reverse Engineering → Documentation → Migration   
-🎯 **Goal:** Modernizing legacy systems with AI
+🎯 **Goal:** Modernizing legacy systems with AI🤖
 
 </td>
 </tr>
