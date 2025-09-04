@@ -55,7 +55,7 @@
 <!-- Streak -->
 <div align="center">
   <img
-    src="https://streak-stats.demolab.com?user=IchinaZiru&theme=transparent&border_radius=10&starting_year=2022"
+    src="https://streak-stats.demolab.com?user=IchinaZiru&theme=transparent&border_radius=10&starting_year=2024"
     alt="GitHub Streak"
   />
 </div>
